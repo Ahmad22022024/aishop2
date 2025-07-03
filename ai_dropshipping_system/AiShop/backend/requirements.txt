@@ -1,0 +1,4 @@
+# Python dependencies
+flask
+numpy
+scikit-learn
